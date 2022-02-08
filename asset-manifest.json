@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.ddb032d2.css",
-    "main.js": "/portfolio/static/js/main.2a634a3b.js",
+    "main.js": "/portfolio/static/js/main.b4f6daac.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/dev.jfif": "/portfolio/static/media/dev.150e31a0f13decf481b0.jfif",
     "static/media/AvenirLTStd-Book.otf": "/portfolio/static/media/AvenirLTStd-Book.813557df4c7a90b1a474.otf",
     "index.html": "/portfolio/index.html",
     "main.ddb032d2.css.map": "/portfolio/static/css/main.ddb032d2.css.map",
-    "main.2a634a3b.js.map": "/portfolio/static/js/main.2a634a3b.js.map",
+    "main.b4f6daac.js.map": "/portfolio/static/js/main.b4f6daac.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ddb032d2.css",
-    "static/js/main.2a634a3b.js"
+    "static/js/main.b4f6daac.js"
   ]
 }
